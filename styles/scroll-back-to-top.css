@@ -1,0 +1,22 @@
+/**
+ * @package     scroll-back-to-top
+ * @author      Emre Can ÖZTAŞ (ecoz) <oztasemrecan@gmail.com>
+ * @copyright   Copyright (c) 2018, Emre Can ÖZTAŞ. (https://emrecanoztas.com/)
+ * @license     http://opensource.org/licenses/MIT  MIT License
+ * @link        https://github.com/oztasemrecan/scroll-back-to-top
+ * @since       Version 1.0.0
+ */
+
+
+.back-to-top-button {
+    display          : none;
+    position         : fixed;
+    color            : #FFF;
+    background-color : #000;
+    padding          : 20px;
+    bottom           : 0px;
+    right            : 0px;
+    border           : none;
+    text-decoration  : none;
+    z-index          : 1000;
+}
